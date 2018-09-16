@@ -1,0 +1,7 @@
+.container {
+    text-align: center;
+    margin: 19px auto;
+    box-shadow: 0 2px 3px slategray;
+    border: 1px solid darkblue;
+    width: 200px;
+}
